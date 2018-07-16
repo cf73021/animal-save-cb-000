@@ -36,6 +36,5 @@ html {
 @media only screen and (max-width: 650px) {
   #dolphin {
     top: 50px;
-    transform: rotate(180deg)
   }
 }
