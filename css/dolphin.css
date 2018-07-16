@@ -29,13 +29,13 @@ html {
 @media only screen and (max-width: 900px) {
   #dolphin {
     top: 50px;
-    transform: rotate(180deg)
+    transform: rotate(180deg);
   }
 }
 
 @media only screen and (max-width: 650px) {
   #dolphin {
     top: 400px;
-    transform: rotate(180deg)
+    transform: rotate(0deg);
   }
 }
