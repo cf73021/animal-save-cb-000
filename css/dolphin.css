@@ -33,5 +33,6 @@ html {
     position: absolute;
     top: 50px;
     right: 0;
+    transform: rotate(0.5 turn)
   }
 }
